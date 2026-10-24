@@ -1,0 +1,21 @@
+body {
+    background-color: #f7ffff;
+    h1 { color:rgb(204, 104, 151) }
+    h1 { text-align: center}
+    h2 { color:rgb(223, 147, 182)}
+    h2 { text-align: center}
+    p { text-align: center;}
+    li { text-align: center;}
+    li { padding: 5px;}
+    p { padding: 10px;}
+    img { align-items: center; display: block; margin-left: auto; margin-right: auto; width: 50%;}
+    a { text-align: center; display: block; margin-left: auto; margin-right: auto; width: 50%; text-decoration: none; color: rgb(218, 17, 111);}
+    h3 { text-align: center; color: rgb(223, 147, 182);}  
+    li{border-style: solid; border-width: 1px; border-color: rgb(230, 41, 129); margin: 20px; padding: 20px; border-radius: 10px; background-color: rgba(255, 255, 255, 0);}
+    footer { text-align: center; color: rgb(223, 147, 182); margin-top: 20px; padding: 10px; border-top: 1px solid rgb(238, 2, 112); background-color: rgba(255, 255, 255, 0);}
+    p { color: rgb(211, 23, 111); font-size: 18px; line-height: 1.5; margin-bottom: 10px; }
+    form { text-align: center; margin-top: 15px; margin-bottom: 20px; }
+    input[type="submit"] { background-color: rgb(223, 147, 182); color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px; margin-top: 10px; }
+    input[type="reset"] { background-color: rgb(223, 147, 182); color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 5px; margin-top: 10px; }
+    p label { display: block; margin-bottom: 5px; font-weight: bold; color: rgb(211, 23, 111); }
+}
